@@ -1,0 +1,4 @@
+Converse Chuck 70, 64.990,resources/item01.jpg,Converse de estilo clásico
+Nike AirMax,82990, resources/item02.jpg, Tecnología y máxima comodidad
+Champion Hyper, 99990, resources/item03.jpg, Modelo urbano y estilo
+Adidas Forum, 84990, resources/item04.jpg, Vanguardia comodidad y performance
